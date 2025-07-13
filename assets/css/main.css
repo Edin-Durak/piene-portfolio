@@ -3826,15 +3826,6 @@ body.is-preload #header:after {
   }
 }
 
-/* Button */
-
-input[type="submit"],
-input[type="reset"],
-input[type="button"],
-.button {
-  padding: 0;
-}
-
 /* Main */
 
 .main {
